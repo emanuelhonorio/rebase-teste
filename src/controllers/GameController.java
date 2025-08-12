@@ -5,6 +5,10 @@ public class GameController {
         System.out.println("Jogando 2...");
     }
 
+    public void pausar() {
+        System.out.println("Pausando ...");
+    }
+
     public void sair() {
         System.out.println("Saindo 2...");
     }
